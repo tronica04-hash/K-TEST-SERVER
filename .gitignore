@@ -1,0 +1,7 @@
+server/libnode22.dll
+server/crashes/
+*.dmp
+*.log
+.cache/
+node_modules/
+txData/
