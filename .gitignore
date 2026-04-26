@@ -4,4 +4,3 @@ server/crashes/
 *.log
 .cache/
 node_modules/
-txData/
