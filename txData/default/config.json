@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "K-TEST01"
+  },
+  "server": {
+    "dataPath": "D:/FIveM Test server/txData/QBCore_E95B34.base/"
+  }
+}
